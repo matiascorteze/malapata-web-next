@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+/*font-family: 'Poppins', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap');
+/*font-family: 'Nunito', sans-serif;*/
+
+.redesContainer {
+  background-color: #73cbf1;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.redesHeader {
+  display: flex;
+  flex-direction: column;
+}
+
+.redesTitle {
+  text-decoration: none;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  margin: auto;
+  transition: all 0.2s ease;
+}
+
+.redesSubtitle {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: white;
+  margin: auto;
+}
+
+.redesTitle:hover {
+  color: #292929;
+  transform: scale(1.1);
+}

@@ -1,0 +1,32 @@
+.pictureContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.smallPictureList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.bigPicture {
+  width: 100%;
+  box-shadow: 0px 0px 10px #9999994a;
+  border-radius: 20px;
+}
+
+.smallPicture {
+  width: 25%;
+  margin: 20px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  border-top: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.smallPicture:hover {
+  border-bottom: 2px solid#f57e24;
+  border-top: 2px solid #73cbf1;
+}

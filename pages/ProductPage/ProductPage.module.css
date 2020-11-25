@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+/*font-family: 'Poppins', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap');
+/*font-family: 'Nunito', sans-serif;*/
+
+.productTopSection{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 30px auto;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.productInfoInd {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0 3vw;
+  font-size: 16px;
+  width: 90%;
+}
+
+.productNameInd {
+  font-family: 'Nunito', sans-serif;
+  font-size: clamp(2rem, 3vw, 4rem);
+  margin-bottom: 15px;
+  color: #292929;
+}
+
+.productPriceInd {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.5rem, 2vw, 3rem);
+  margin-bottom: 20px;
+  color: #292929;
+}
+
+.productDescInd {
+  display: flex;
+  flex-direction: column;
+}
+
+button.mercadopago-button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  background-color: white;
+  color: #292929;
+  border: 2px solid #73cbf1;
+  border-radius: 50px;
+  margin: 10px 0 10px 30px;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+button.mercadopago-button:hover {
+  background-color:#73cbf1;
+  color: white;
+  border: 2px solid transparent;
+}
+
+.productBottomSection {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 30px auto;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bottomSectionTitle {
+  font-family: 'Nunito', sans-serif;
+  font-size: clamp(1.5rem, 3vw, 4rem);
+  margin-bottom: 10px;
+  color: #292929;
+}
+
+.bottomSectionSubtitle {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: clamp(1.1rem, 2vw, 3rem);
+  margin-bottom: 20px;
+  color: #292929;
+}
+
+.medidaTitle {
+  font-family: 'Nunito', sans-serif;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  margin-bottom: 5px;
+  color: #292929;
+}
+
+.medidaProc {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.priceList {
+  margin: 30px auto;
+  width: 100%;
+}
+
+.priceBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0px auto;
+  color: #292929;
+}
+
+.priceBlockTitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  width: 100%;
+  font-size: 18px;
+}
+
+@media all and (max-width: 450px) {
+  .productTopSection{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .productInfoInd {
+    margin: 30px auto;
+  }
+
+  .productBottomSection {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+  }
+
+  .priceBlockTitle {
+    font-size: 16px;
+  }
+
+  .priceBlock {
+    flex-direction: column;
+  }
+
+  button.mercadopago-button {
+    
+    margin: 20px 0;
+    
+  }
+}

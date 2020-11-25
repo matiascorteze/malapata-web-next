@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "name": "Carrito Delantero",
+    "url": "carrito-delantero",
+    "price": 500,
+    "desc": ["descripción", "pendiente"],
+    "main_img": "https://i.postimg.cc/nrRS2hDt/carrito-delantero-01.jpg",
+    "alt_img": ["https://i.postimg.cc/nrRS2hDt/carrito-delantero-01.jpg", "https://i.postimg.cc/dQ4fw4SS/carrito-delantero-02.jpg"],
+    "medidas": [
+      {
+        "title": "Medida General",
+        "proc": "Las medidas las toma usted o su veterinario bajo nuestras instrucciones."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-2c0f9365-d602-4887-b39b-07a0129188f9"
+      }]
+  },
+  {
+    "id": 2,
+    "name": "Carrito 4x4",
+    "url": "carrito-delantero",
+    "price": 500,
+    "desc": ["descripción", "pendiente"],
+    "main_img": "https://i.postimg.cc/nrRS2hDt/carrito-delantero-01.jpg",
+    "alt_img": ["https://i.postimg.cc/nrRS2hDt/carrito-delantero-01.jpg", "https://i.postimg.cc/dQ4fw4SS/carrito-delantero-02.jpg"],
+    "medidas": [
+      {
+        "title": "Medida General",
+        "proc": "Las medidas las toma usted o su veterinario bajo nuestras instrucciones."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-2c0f9365-d602-4887-b39b-07a0129188f9"
+      }]
+  },
+  {
+    "id": 3,
+    "name": "Carrito Ghost",
+    "url": "carrito-trasero",
+    "price": 8300,
+    "desc": ["Carrito trasero para mascotas chicas y mini. Realizado con materiales super livianos, con uniones de plástico, y caño métalico o plástico segun el peso de su peludo. Viene con ruedas de goma, plástico, o silicona, con cinta de nylon y goma eva en la zona de roce.", " ", "Aptos para mascotas que no caminan nada y para aquellas que algo se movilizan. Se adapta a macho o hembra. Recomendable que se hagan pruebas para una mejor performance.", " ", "Totalmente ajustable y regulable!"],
+    "main_img": "https://i.postimg.cc/j2J7BPn5/carrito-ghost-01.jpg",
+    "alt_img": ["https://i.postimg.cc/j2J7BPn5/carrito-ghost-01.jpg", "https://i.postimg.cc/kD3bCGWy/carrito-ghost-02.jpg"],
+    "medidas": [
+      {
+        "title": "Medida General",
+        "proc": "Las medidas las toma usted o su veterinario bajo nuestras instrucciones."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "A medida",
+        "valor": 8300,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-2c0f9365-d602-4887-b39b-07a0129188f9"
+      }]
+  },
+  {
+    "id": 4,
+    "name": "Carrito Trasero",
+    "url": "carrito-trasero",
+    "price": 10000,
+    "desc": ["Carrito trasero para mascotas medianas. Realizado con materiales super livianos, con uniones de plástico, y caño métalico o plástico segun el peso de su peludo. Viene con ruedas de goma, plástico, o silicona, con cinta de nylon y goma eva en la zona de roce.", " ", "Aptos para mascotas que no caminan nada y para aquellas que algo se movilizan. Se adapta a macho o hembra. Recomendable que se hagan pruebas para una mejor performance.", " ", "Totalmente ajustable y regulable!"],
+    "main_img": "https://i.postimg.cc/qMCZynLk/carrito-trasero-01.jpg",
+    "alt_img": ["https://i.postimg.cc/qMCZynLk/carrito-trasero-01.jpg", "https://i.postimg.cc/pLbcZTGK/carrito-trasero-02.jpg"],
+    "medidas": [
+      {
+        "title": "Medida General",
+        "proc": "Las medidas las toma usted o su veterinario bajo nuestras instrucciones."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-2c0f9365-d602-4887-b39b-07a0129188f9"
+      }]
+  },
+  {
+    "id": 5,
+    "name": "Férula Tongue Corta",
+    "url": "ferula-tongue-corta",
+    "price": 1200,
+    "desc": ["Fabricada a la medida de tu perro o gato, esta férula de bota corta está indicada para estabilizar lesiones de los dedos y proporcionar soporte para posicionar la extremidad de forma correcta.", " ", "Válida para extremidad trasera o delantera, se puede poner y quitar con facilidad."],
+    "main_img": "https://i.postimg.cc/SKzWt7ns/ferula-tongue-corta-01.jpg",
+    "alt_img": ["https://i.postimg.cc/SKzWt7ns/ferula-tongue-corta-01.jpg", "https://i.postimg.cc/P57W4Fr9/ferula-tongue-corta-02.jpg", "https://i.postimg.cc/ZnJpRGVB/ferula-tongue-corta-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir desde la punta de la uña del dedo más largo hata el final del apoyo contra el suelo de las almohadillas."
+      },
+      {
+        "title": "Medida B",
+        "proc": "La medida B debe ser tomada desde el suelo hasta el tarso (para pata trasera) o el carpo (para pata delantera) sin sobrepasarlo."
+      },{
+        "title": "Medida C",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      },
+      {
+        "title": "Medida D",
+        "proc": "Mide el contorno de la pata de tu perro o gato con una cinta métrica flexible como indica la foto."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-603c8238-ed4f-4476-a73f-dcd24f5997e7"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-6087aef7-7630-4928-ab90-3862e2de1667"
+      },
+      {
+        "medida": "De 21cm a 25cm de altura",
+        "valor": 2900,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-5d8aed08-46ca-45f3-9db8-05d12abbd60d"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Férula Tongue Delantera",
+    "url": "ferula-tongue-delantera",
+    "price": 1200,
+    "desc": ["Fabricada a la medida de tu perro o gato, esta férula para pata delantera está indicada tanto para problemas neurológicos, donde sirve para posicionar correctamente la extremidad, como para problemas traumatológicos, donde inmovilizan y dan soporte en la extremidad.", " ", "Se puede poner y quitar con facilidad."],
+    "main_img": "https://i.postimg.cc/MTqvbyRg/ferula-tongue-delantera-01.jpg",
+    "alt_img": ["https://i.postimg.cc/MTqvbyRg/ferula-tongue-delantera-01.jpg", "https://i.postimg.cc/QxtKykP3/ferula-tongue-delantera-02.jpg", "https://i.postimg.cc/QCnC3wPr/ferula-tongue-delantera-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir desde la punta de la uña del dedo más largo hata el final del apoyo contra el suelo de las almohadillas."
+      },
+      {
+        "title": "Medida B",
+        "proc": "La medida B debe ser tomada desde el suelo hasta el carpo sin sobrepasarlo."
+      },
+      {
+        "title": "Medida C",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      },
+      {
+        "title": "Medida D",
+        "proc": "Mide el contorno de la pata de tu perro o gato con una cinta métrica flexible como indica la foto."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-2c0f9365-d602-4887-b39b-07a0129188f9"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-b057b89e-dfb3-422c-a4de-e204d2a82829"
+      },
+      {
+        "medida": "De 21cm a 25cm de altura",
+        "valor": 2900,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-8536c1a0-e47e-43e6-a0c5-9acd21311da6"
+      },
+      {
+        "medida": "De 26cm a 30cm de altura",
+        "valor": 3800,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-f0019303-122f-4a47-bf82-94342d5c53a8"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Férula Tongue Trasera",
+    "url": "ferula-tongue-trasera",
+    "price": 1200,
+    "desc": ["Fabricada a la medida de tu perro o gato, esta férula para pata trasera está indicada tanto para problemas neurológicos, donde sirve para posicionar correctamente la extremidad, como para problemas traumatológicos, donde inmovilizan y dan soporte en la extremidad.", " ", "Se puede poner y quitar con facilidad."],
+    "main_img": "https://i.postimg.cc/GhW3xFnz/ferula-tongue-trasera-01.jpg",
+    "alt_img": ["https://i.postimg.cc/GhW3xFnz/ferula-tongue-trasera-01.jpg", "https://i.postimg.cc/bYFwsX67/ferula-tongue-trasera-02.jpg", "https://i.postimg.cc/GprcZb2y/ferula-tongue-trasera-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir desde la punta de la uña del dedo más largo hata el final del apoyo contra el suelo de las almohadillas."
+      },
+      {
+        "title": "Medida B",
+        "proc": "La medida B debe ser tomada desde el suelo hasta el tarso (para pata trasera) o el carpo (para pata delantera) sin sobrepasarlo."
+      },
+      {
+        "title": "Medida C",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      },
+      {
+        "title": "Medida D",
+        "proc": "Mide el contorno de la pata de tu perro o gato con una cinta métrica flexible como indica la foto."
+      },
+      {
+        "title": "Medida E",
+        "proc": "Debe cubrir la distancia entre el tarso y el punto medio hasta la rodilla."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-416f110f-1946-4a25-9e0e-66cbabacbf4a"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-3500c3b7-7ead-4019-b21c-e7397516a133"
+      },
+      {
+        "medida": "De 21cm a 25cm de altura",
+        "valor": 2900,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-fcdbbed9-e774-4d8c-80a8-4e81186796e3"
+      },
+      {
+        "medida": "De 26cm a 30cm de altura",
+        "valor": 3800,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-aa5d46ce-bee6-4778-9dbb-74c4cb8d0e5c"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Férula Tita",
+    "url": "ferula-tita",
+    "price": 1200,
+    "desc": ["Fabricada a la medida de tu perro o gato, para lesiones en el tendón, los ligamentos, o para estabilización post-quirúrgica inmovilizando el tarso.", " ", "Se puede poner y quitar con facilidad, no impide el contacto de la extremidad con el suelo."],
+    "main_img": "https://i.postimg.cc/pXZkDZjM/ferula-tita01.jpg",
+    "alt_img": ["https://i.postimg.cc/pXZkDZjM/ferula-tita01.jpg", "https://i.postimg.cc/bN83DMsR/ferula-tita-02.jpg", "https://i.postimg.cc/6ppczvV2/ferula-tita-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida B",
+        "proc": "Debe partir del tarso hacia abajo sin impedir el movimiento de la articulación de la pezuña."
+      },
+      {
+        "title": "Medida D",
+        "proc": "La medida B debe ser tomada desde el suelo hasta el tarso (para pata trasera) o el carpo (para pata delantera) sin sobrepasarlo."
+      },
+      {
+        "title": "Medida E",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-9d704c4d-7dc1-4f61-b8c9-9125595f9de5"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-89895e2b-4b59-47b6-86ea-430bbbbf3d1d"
+      },
+      {
+        "medida": "De 21cm a 25cm de altura",
+        "valor": 2900,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-1f1b0afb-80ec-40e6-981f-11f14faea244"
+      },
+      {
+        "medida": "De 26cm a 30cm de altura",
+        "valor": 3800,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-d420782c-d7ec-4825-8dec-1c7c68e0c8db"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Férula Gruyere",
+    "url": "ferula-gruyere",
+    "price": 1200,
+    "desc": ["Férulas plásticas termo moldeables con agua hirviendo, de uso veterinario, sustituyen los yeso o vendajes comunes, pero estas férulas no se humedecen, no se ensucian, no desarrollan bacterias ni olores, su original diseño mantiene la zona a tratar inmovilizada, limpia, seca, ventilada y sin olores, además son impermeables así que podes bañar a tu mascota con la férula puesta.", " ", "Acelera el proceso de curación ya que permite la colocación de la aparatología de fisioterapia y no hay que esperar a quitar los vendajes para comenzar con la rehabilitación.", " ", "Es compuesta por una membrana de goma flexible de diseño aireado que amortigua y evita el contacto con piel de la mascota y el segundo componente de PLA rígido ( biopolímero derivado del maíz) termo moldeable.", " ", "Estas férulas son reutilizables y biodegradables. Se colocan en 5 segundos y no hay que esperar tiempo de secado. Se pueden sacar y poner, ya que se realizan de ¾ de caña. Las medidas se toman de la altura que se desee cubrir y el contorno de la pata", " ", "Son recomendadas para fisuras, post- fracturas, como tutor en las fracturas bajo las vendas, dermatitis, lesiones en músculos o ligamentos, problemas de motricidad, para las mascotas que lastiman arrastrando sus extremidades."],
+    "main_img": "https://i.postimg.cc/WpZHJgSs/ferula-gruyere-02.jpg",
+    "alt_img": ["https://i.postimg.cc/WpZHJgSs/ferula-gruyere-02.jpg", "https://i.postimg.cc/m2G63k6C/ferula-gruyere-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir desde la punta de la uña del dedo más largo hata el final del apoyo contra el suelo de las almohadillas."
+      },
+      {
+        "title": "Medida B",
+        "proc": "Debe partir del tarso hacia abajo sin impedir el movimiento de la articulación de la pezuña."
+      },
+      {
+        "title": "Medida C",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      },
+      {
+        "title": "Medida D",
+        "proc": "Debes medir con centímetro o cinta métrica flexible el contorno de la pata a la altura que marcamos con un aro."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-54373ea3-1f73-4c95-9a74-70f26f56b865"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-e538c423-9e69-4264-a192-e1b6ce74a695"
+      },
+      {
+        "medida": "De 21cm a 25cm de altura",
+        "valor": 2900,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-00123db9-b651-4390-92d2-95fa45a66863"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Férula Carpo",
+    "url": "ferula-carpo",
+    "price": 1200,
+    "desc": ["Fabricada a la medida de tu perro o gato, para lesiones en el tendón, los ligamentos, o para estabilización post-quirúrgica inmovilizando el tarso.", " ", "Se puede poner y quitar con facilidad, no impide el contacto de la extremidad con el suelo."],
+    "main_img": "https://i.postimg.cc/0QgsGcqC/ferula-carpo-01.jpg",
+    "alt_img": ["https://i.postimg.cc/0QgsGcqC/ferula-carpo-01.jpg", "https://i.postimg.cc/Jz2m0R6v/ferula-carpo-02.jpg", "https://i.postimg.cc/Y91wdYrB/ferula-carpo-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir desde la punta de la uña del dedo más largo hata el final del apoyo contra el suelo de las almohadillas."
+      },
+      {
+        "title": "Medida B",
+        "proc": "La medida B debe ser tomada desde el suelo hasta el tarso (para pata trasera) o el carpo (para pata delantera) sin sobrepasarlo."
+      },
+      {
+        "title": "Medida C",
+        "proc": "Apoya la pata de tu perro o gato firmemente sobre el suelo y mide el ancho con una cinta métrica o un metro flexible."
+      },
+      {
+        "title": "Medida D",
+        "proc": "Debes medir con centímetro o cinta métrica flexible el contorno de la pata a la altura que marcamos con un aro."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Hasta 10cm de altura",
+        "valor": 1200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-27c75e16-fd66-4337-a947-641c79757b41"
+      },
+      {
+        "medida": "De 11cm a 20cm de altura",
+        "valor": 2200,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-56ef7137-6ff8-42af-b173-47b4cab49186"
+      }
+    ]
+  }
+  ,
+  {
+    "id": 11,
+    "name": "Aro Júpiter",
+    "url": "aro-jupiter",
+    "price": 850,
+    "desc": ["Dispositivo JÚPITER para impedir que nuestras mascotas ciegas choquen contra objetos. Es super liviano (10 grs) y no ocasiona ningún cansancio cervical.", " ", "Aconsejamos para su adaptación colocarlo gradualmente unas horas por día, para que su mascota vaya incorporando esta señal de aviso cuando golpea con un objeto, con los días ya podrá usarlo todo el tiempo. Quitarlo por las noches para que pueda descansar cómodamente.", " ","JUPITER viene en 4 tamaños: mini, chico, mediano y grande, y cualquiera de estos se puede achicar de ser necesario cortando el aro de metal con una pinza, así de fácil!", " ", "Si es con collar, informar para su elavoracion el tamaño de su peludo y el contorno del cuello para realizarlo a su medida."],
+    "main_img": "https://i.postimg.cc/G9ndcKX2/aro-jupiter-01.jpg",
+    "alt_img": ["https://i.postimg.cc/G9ndcKX2/aro-jupiter-01.jpg", "https://i.postimg.cc/qM2C25V1/aro-jupiter-02.jpg", "https://i.postimg.cc/fWJp1bWX/aro-jupiter-03.jpg"],
+    "medidas": [
+      {
+        "title": "Medida A",
+        "proc": "Debes medir el contorno del cuello del animal."
+      }
+    ],
+    "precios": [
+      {
+        "medida": "Sin collar",
+        "valor": 850,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-bf4684e2-4cb7-4b1c-bc28-4bc25887b8b3"
+      },
+      {
+        "medida": "Con collar",
+        "valor": 1150,
+        "src": "https://www.mercadopago.com.ar/integrations/v1/web-payment-checkout.js",
+        "datapref": "583336707-44bd50e8-5d0f-47d5-8abb-265044c33197"
+      }
+    ]
+  }
+]
+
